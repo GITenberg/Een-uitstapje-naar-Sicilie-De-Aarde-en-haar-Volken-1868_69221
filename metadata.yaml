@@ -1,0 +1,33 @@
+_repo: Een-uitstapje-naar-Sicilie-De-Aarde-en-haar-Volken-1868_69221
+_version: 0.0.1
+creator:
+  editor:
+    agent_name: Anonymous
+    aliases:
+    - Anonyme
+    - Anonymous, Anonymous
+    gutenberg_agent_id: '216'
+    url: http://www.gutenberg.org/2009/agents/216
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Anonymous_work
+    - http://www.gutenberg.org/ebooks/author/49
+description: ''
+gutenberg_issued: '2022-10-24'
+identifiers:
+  gutenberg: '69221'
+language: nl
+pgterms:marc905: 20060205133926various
+pgterms:marc906: '1918'
+pgterms:marc907: NL
+production_note: Jeroen Hellingman and the Online Distributed Proofreading Team at
+  https://www.pgdp.net/ for Project Gutenberg
+publication_note: 'Netherlands: H. D. Tjeenk Willink & Zn.,1918.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sicily (Italy) -- Description and travel'
+- !lcc 'DG'
+- GITenberg
+title: "Een uitstapje naar Sicilië\r\nDe Aarde en haar Volken, 1868"
+url: http://www.gutenberg.org/ebooks/69221
